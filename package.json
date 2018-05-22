@@ -1,0 +1,16 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "learn js and es6",
+  "main": "./ch09-module/import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rectcircle",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
